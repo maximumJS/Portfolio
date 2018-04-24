@@ -17,7 +17,8 @@
 /* opacity sur background header intro*/
 
 #headerIntro{
-	background-color: rgba(100, 100, 180, 0.60)
+	background-color: rgba(0,0 , 100, 0.50);
+	border-radius: 75%;
 }
 
 /*Logo Skills*/
@@ -285,6 +286,7 @@
 			justify-content: center;
 		}
 		.logoSkills img{
+			margin: 20px;
 			width: 100px;
 			height: 100px;
 		}
@@ -2294,7 +2296,7 @@
 			}
 
 			#main > section.one {
-				background-image: url("../../images/backgroundIntro.jpg");
+				background-image: url("../../images/markus-spiske-357131-unsplash.jpg");
 			}
 
 			#main > section.two {
