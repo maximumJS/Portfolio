@@ -16,10 +16,10 @@
 
 /* opacity sur background header intro*/
 
-#headerIntro{
+/* #headerIntro{
 	background-color: rgba(34, 38 , 41, 0.70);
 	border-radius: 75%;
-}
+} */
 
 /*Logo Skills*/
 
@@ -2221,7 +2221,7 @@
 			}
 
 				#nav ul li a.active span:before {
-					color: #e27689;
+				color: #fff;
 				}
 
 /* Footer */
@@ -2298,7 +2298,7 @@
 			}
 
 			#main > section.one {
-				background-image: url("../../images/markus-spiske-357131-unsplash.jpg");
+				background: linear-gradient(to bottom, rgba(15, 40, 68, 0.8),rgba(0, 14, 29, 0.8)), url("../../images/markus-spiske-357131-unsplash.jpg") 50% 50% / cover no-repeat fixed border-box;
 			}
 
 			#main > section.two {
